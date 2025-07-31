@@ -9,7 +9,7 @@ import closeIcon from "../../images/closeIcon.png";
 
 let socket;
 
-const ENDPOINT = "https://demo-cchat.herokuapp.com/";
+const ENDPOINT = "https://chat-app-wnmf.onrender.com";
 
 const Chat = () => {
     const [id, setid] = useState("");
